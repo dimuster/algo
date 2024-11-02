@@ -30,7 +30,7 @@ public class Test {
                     st.printTree();
                     break;
                 case "q":
-                    System.out.println("exit!");
+                    System.out.println("exit");
                     System.exit(0);
                     break;
             }
